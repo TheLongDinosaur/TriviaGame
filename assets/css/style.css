@@ -1,0 +1,27 @@
+
+/* I spent so much time trying to get the game to function properly, because I received
+a failing grade on my last homework assignment, that I did not get to do all the styling I had hoped to do. */
+
+body {
+    background-image: url("../images/earth_belly_from_space.jpg");
+ }
+
+ .wrapper {
+     background-color: navy;
+ }
+ 
+ h1 {
+    text-align: center; 
+    font-family: Impact, Charcoal, sans-serif;
+    color: white; 
+ }
+
+ #start {
+    background-color: gray;
+    color: navy;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+ }
+ 
